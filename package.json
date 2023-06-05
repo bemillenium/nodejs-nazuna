@@ -10,7 +10,7 @@
     "express": "^4.16.2",
     "node-statsd": "^0.1.1",
     "body-parser": "^1.18.2",
-    "dotenv": "^5.0.0",
+    "dotenv": "^5.0.1",
     "influxdb-nodejs": "^2.7.6",
     "gelf": "^2.0.0"
   },
