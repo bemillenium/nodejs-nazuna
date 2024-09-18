@@ -7,7 +7,7 @@
     "start": "node main.js"
   },
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.20.0",
     "node-statsd": "^0.1.1",
     "body-parser": "^1.18.2",
     "dotenv": "^5.0.0",
